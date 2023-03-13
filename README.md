@@ -1,4 +1,5 @@
 # challenge-3-js-refractor
+Website live at: https://jkrieger6.github.io/challenge-3-js-refractor/
 Refractor exisiting code and make the existing webpage usable for a random password generator based off of user input values.
 
 ## Description
